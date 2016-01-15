@@ -32,7 +32,7 @@ If I forgot to credit you, please send me a message so I can add you!
   * Air quality monitor
   * Percipitation meter
   * Laundry machine alerts
-    * Possibly using piezos and another 433MHz transmitter/reciever (I already have the network going, may as well use it
+    * Possibly using piezos and another 433MHz transmitter/reciever (I already have the network going, may as well use it)
   * More lighting effects for the keyboard.
     * Escape key as voice monitor/processing indicator
     * Change color based on lighting
