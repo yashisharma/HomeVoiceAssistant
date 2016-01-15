@@ -10,11 +10,11 @@ https://github.com/McSwindler/python-milight
 
 If I forgot to credit you, please send me a message so I can add you!
 
-Current state: 
-  Totally uncommented. Sorry guys! I'll work on that  
-  The program runs well, and detects/processes audio correctly most of the time. Need to work on accuracy a bit.  
-  It should work with any audio backend. I've tested it on Alsa and pulse, as well as a little work with JACK. Just change the audio device in pyVoicePoll.py  
-  I also have a program that controls the lighting on my Logitech g910 keyboard based off of voice recognition status, so I always have a monitor for what the program is doing. That is using simple UDP communication between the two computers.  
+Current state: <br />
+  Totally uncommented. Sorry guys! I'll work on that  <br />
+  The program runs well, and detects/processes audio correctly most of the time. Need to work on accuracy a bit.  <br />
+  It should work with any audio backend. I've tested it on Alsa and pulse, as well as a little work with JACK. Just change the audio device in pyVoicePoll.py  <br />
+  I also have a program that controls the lighting on my Logitech g910 keyboard based off of voice recognition status, so I always have a monitor for what the program is doing. That is using simple UDP communication between the two computers.  <br />
 
 
 Feature todo list:
