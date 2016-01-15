@@ -1,12 +1,12 @@
 # HomeVoiceAssistant
 
 I used a number of libraries:
-https://github.com/api-ai/api-ai-python
-  VAD.py
-  __init__.py
-  apiai.py
-  resampler.py
-https://github.com/McSwindler/python-milight
+* https://github.com/api-ai/api-ai-python
+  * VAD.py
+  * __init__.py
+  * apiai.py
+  * resampler.py
+* https://github.com/McSwindler/python-milight
 
 If I forgot to credit you, please send me a message so I can add you!
 
