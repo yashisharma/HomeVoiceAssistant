@@ -18,28 +18,28 @@ Current state: <br />
 
 
 Feature todo list:
-  Pet manager
-    Automated feeding using a Petsafe feeder and some RF modules and a few custom built ATTiny85 boards that I have yet to print or design
-    Cat litter ammonia detector
-      Monitor ammonia levels of litter box and sound an alarm if it is too high
-  Security - Door/window monitors using 433 MHz door sensors and an arduino
-  Automatic control
-    Sense if someone is in the apartment and turn on/off lights based on that info
-    Turn on espresso machine in the morning
-    Set lights to red at night, blue in the morning
-    Plant watering
-  Nest thermostat control
-  Air quality monitor
-  Percipitation meter
-  Laundry machine alerts
-    Possibly using piezos and another 433MHz transmitter/reciever (I already have the network going, may as well use it
-  More lighting effects for the keyboard.
-    Escape key as voice monitor/processing indicator
-    Change color based on lighting
+  * Pet manager
+    * Automated feeding using a Petsafe feeder and some RF modules and a few custom built ATTiny85 boards that I have yet to print or design
+    * Cat litter ammonia detector
+      * Monitor ammonia levels of litter box and sound an alarm if it is too high
+  * Security - Door/window monitors using 433 MHz door sensors and an arduino
+  * Automatic control
+    * Sense if someone is in the apartment and turn on/off lights based on that info
+    * Turn on espresso machine in the morning
+    * Set lights to red at night, blue in the morning
+    * Plant watering
+  * Nest thermostat control
+  * Air quality monitor
+  * Percipitation meter
+  * Laundry machine alerts
+    * Possibly using piezos and another 433MHz transmitter/reciever (I already have the network going, may as well use it
+  * More lighting effects for the keyboard.
+    * Escape key as voice monitor/processing indicator
+    * Change color based on lighting
     
 Other todo:
-  I really need a better mic. I'm just using a pair of PS3 Eyes right now. They're good, but not great/
-    Looking into the ICE omnidirectional Mic
-  Recode some of the librares that I am using so that I can customize them to my liking.
-  Make some kind of a control panel. 
-    I'm thinking about using a 7 in touchscreen display with a few angel eyes and rgb leds along the sides to be aestheticly pleasing as well as giving some insight into the status of the program.
+  * I really need a better mic. I'm just using a pair of PS3 Eyes right now. They're good, but not great/
+    * Looking into the ICE omnidirectional Mic
+  * Recode some of the librares that I am using so that I can customize them to my liking.
+  * Make some kind of a control panel. 
+    * I'm thinking about using a 7 in touchscreen display with a few angel eyes and rgb leds along the sides to be aestheticly pleasing as well as giving some insight into the status of the program.
