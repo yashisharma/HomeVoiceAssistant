@@ -1,6 +1,6 @@
 # HomeVoiceAssistant
 
-## Libraries Used
+## Libraries Used:
 * https://github.com/api-ai/api-ai-python
   * VAD.py
   * __init__.py
